@@ -1,0 +1,382 @@
+[
+    {
+      "Alumno": 20171004928,
+      "Codigo": "RR176",
+      "Asignatura": "GIMNASIA GENERAL",
+      "UV": 5,
+      "Seccion": 1100,
+      "Año": 2017,
+      "Periodo": 1,
+      "Calificacion": 93
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "IN101",
+      "Asignatura": "INGLES I",
+      "UV": 4,
+      "Seccion": 801,
+      "Año": 2017,
+      "Periodo": 1,
+      "Calificacion": 84
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "SC101",
+      "Asignatura": "SOCIOLOGIA",
+      "UV": 4,
+      "Seccion": 703,
+      "Año": 2017,
+      "Periodo": 1,
+      "Calificacion": 84
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "EO025",
+      "Asignatura": "REDACCION GENERAL OPTATIVA",
+      "UV": 3,
+      "Seccion": 1200,
+      "Año": 2017,
+      "Periodo": 1,
+      "Calificacion": 93
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "EG011",
+      "Asignatura": "ESPAÑOL GENERAL",
+      "UV": 4,
+      "Seccion": 807,
+      "Año": 2017,
+      "Periodo": 2,
+      "Calificacion": 95
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "CP101",
+      "Asignatura": "CIENCIAS POLITICAS",
+      "UV": 4,
+      "Seccion": 1100,
+      "Año": 2017,
+      "Periodo": 2,
+      "Calificacion": 84
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "HH101",
+      "Asignatura": "HISTORIA DE HONDURAS",
+      "UV": 4,
+      "Seccion": 1002,
+      "Año": 2017,
+      "Periodo": 2,
+      "Calificacion": 87
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "FF101",
+      "Asignatura": "FILOSOFIA I",
+      "UV": 4,
+      "Seccion": 700,
+      "Año": 2017,
+      "Periodo": 2,
+      "Calificacion": 94
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "IM135",
+      "Asignatura": "INTROD. A LA INGENIERIA MECANICA",
+      "UV": 2,
+      "Seccion": 1000,
+      "Año": 2018,
+      "Periodo": 1,
+      "Calificacion": 94
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "MM110",
+      "Asignatura": "MATEMATICA I",
+      "UV": 5,
+      "Seccion": 1200,
+      "Año": 2018,
+      "Periodo": 1,
+      "Calificacion": 43
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "BI130",
+      "Asignatura": "EDUCACION AMBIENTAL OPTATIVA",
+      "UV": 3,
+      "Seccion": 1300,
+      "Año": 2018,
+      "Periodo": 1,
+      "Calificacion": 79
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "MM111",
+      "Asignatura": "GEOMETRIA Y TRIGONOMETRIA",
+      "UV": 5,
+      "Seccion": 700,
+      "Año": 2018,
+      "Periodo": 1,
+      "Calificacion": 50
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "MM110",
+      "Asignatura": "MATEMATICA I",
+      "UV": 5,
+      "Seccion": 1100,
+      "Año": 2018,
+      "Periodo": 2,
+      "Calificacion": 66
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "IN102",
+      "Asignatura": "INGLES II",
+      "UV": 4,
+      "Seccion": 901,
+      "Año": 2018,
+      "Periodo": 2,
+      "Calificacion": 88
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "MM111",
+      "Asignatura": "GEOMETRIA Y TRIGONOMETRIA",
+      "UV": 5,
+      "Seccion": 1200,
+      "Año": 2018,
+      "Periodo": 2,
+      "Calificacion": 44
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "MM111",
+      "Asignatura": "GEOMETRIA Y TRIGONOMETRIA",
+      "UV": 5,
+      "Seccion": 1401,
+      "Año": 2018,
+      "Periodo": 3,
+      "Calificacion": 65
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "MM201",
+      "Asignatura": "CALCULO I",
+      "UV": 5,
+      "Seccion": 1400,
+      "Año": 2019,
+      "Periodo": 1,
+      "Calificacion": 60
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "QQ100",
+      "Asignatura": "QUIMICA FUNDAMENTAL",
+      "UV": 4,
+      "Seccion": 1300,
+      "Año": 2019,
+      "Periodo": 1,
+      "Calificacion": 73
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "MM211",
+      "Asignatura": "VECTORES Y MATRICES",
+      "UV": 3,
+      "Seccion": 1500,
+      "Año": 2019,
+      "Periodo": 1,
+      "Calificacion": 48
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "MM201",
+      "Asignatura": "CALCULO I",
+      "UV": 5,
+      "Seccion": 600,
+      "Año": 2019,
+      "Periodo": 2,
+      "Calificacion": 63
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "MM211",
+      "Asignatura": "VECTORES Y MATRICES",
+      "UV": 3,
+      "Seccion": 701,
+      "Año": 2019,
+      "Periodo": 2,
+      "Calificacion": 65
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "MM201",
+      "Asignatura": "CALCULO I",
+      "UV": 5,
+      "Seccion": 1500,
+      "Año": 2019,
+      "Periodo": 3,
+      "Calificacion": 76
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "MM202",
+      "Asignatura": "CALCULO II",
+      "UV": 5,
+      "Seccion": 1300,
+      "Año": 2020,
+      "Periodo": 1,
+      "Calificacion": 85
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "FS100",
+      "Asignatura": "FISICA GENERAL I",
+      "UV": 5,
+      "Seccion": 700,
+      "Año": 2020,
+      "Periodo": 1,
+      "Calificacion": 68
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "MM411",
+      "Asignatura": "ECUACIONES DIFERENCIALES",
+      "UV": 3,
+      "Seccion": 1702,
+      "Año": 2020,
+      "Periodo": 2,
+      "Calificacion": 79
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "MM401",
+      "Asignatura": "ESTADISTICA I",
+      "UV": 3,
+      "Seccion": 1401,
+      "Año": 2020,
+      "Periodo": 2,
+      "Calificacion": 77
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "FS200",
+      "Asignatura": "FISICA GENERAL II",
+      "UV": 5,
+      "Seccion": 700,
+      "Año": 2020,
+      "Periodo": 3,
+      "Calificacion": 72
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "IN103",
+      "Asignatura": "INGLES III",
+      "UV": 4,
+      "Seccion": 802,
+      "Año": 2020,
+      "Periodo": 3,
+      "Calificacion": 74
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "IM224",
+      "Asignatura": "MECANICA PARA INGENIEROS I",
+      "UV": 4,
+      "Seccion": 1500,
+      "Año": 2020,
+      "Periodo": 3,
+      "Calificacion": 71
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "IM233",
+      "Asignatura": "METODOS MATEMATICOS EN INGENIERIA",
+      "UV": 3,
+      "Seccion": 700,
+      "Año": 2021,
+      "Periodo": 1,
+      "Calificacion": 84
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "MM314",
+      "Asignatura": "PROGRAMACION",
+      "UV": 3,
+      "Seccion": 800,
+      "Año": 2021,
+      "Periodo": 1,
+      "Calificacion": 75
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "IM225",
+      "Asignatura": "METROLOGIA",
+      "UV": 3,
+      "Seccion": 1700,
+      "Año": 2021,
+      "Periodo": 1,
+      "Calificacion": 80
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "IM212",
+      "Asignatura": "METALURGIA",
+      "UV": 4,
+      "Seccion": 700,
+      "Año": 2021,
+      "Periodo": 1,
+      "Calificacion": 85
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "IM315",
+      "Asignatura": "MECANICA DE FLUIDOS",
+      "UV": 3,
+      "Seccion": 1800,
+      "Año": 2021,
+      "Periodo": 1,
+      "Calificacion": 65
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "II336",
+      "Asignatura": "PLANEACION Y CONTROL DE PROYECTOS",
+      "UV": 3,
+      "Seccion": 1800,
+      "Año": 2021,
+      "Periodo": 2,
+      "Calificacion": 84
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "IM313",
+      "Asignatura": "MECANICA DE MATERIALES I",
+      "UV": 5,
+      "Seccion": 1700,
+      "Año": 2021,
+      "Periodo": 2,
+      "Calificacion": 77
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "DQ101",
+      "Asignatura": "DIBUJO I",
+      "UV": 2,
+      "Seccion": 1302,
+      "Año": 2021,
+      "Periodo": 2,
+      "Calificacion": 68
+    },
+    {
+      "Alumno": 20171004928,
+      "Codigo": "IM328",
+      "Asignatura": "TERMODINAMICA I",
+      "UV": 3,
+      "Seccion": 800,
+      "Año": 2021,
+      "Periodo": 2,
+      "Calificacion": 76
+    }
+  ]
