@@ -1,22 +1,19 @@
 # Creacion de un Dataframe desde un CSV y otro desde un JSON File
 
 ## Informacion del Estudiante
-**Nombre** : Alex Daniel Galo Soto
-**Seccion**: 1700
-**Numero de Cuenta**: 20181002352
+**Nombre** : Alex Daniel Galo Soto.  
+**Seccion**: 1700.  
+**Numero de Cuenta**: 20181002352.  
 
 ## Dummy Data
 Utilizando informacion falsa de 2 historiales academico , se busca responder a 3 preguntas ficticias del negocio .
 
 ## Preguntas de Negocio a Responder
-1. ¿Cual es la nota mas baja y más alta del primer y segundo alumno? 
-2. ¿Cuales son las notas promedios de los 2 alumnos? CAMBIAR IMAGEN
+1. ¿Cual es la nota mas baja y más alta del primer y segundo alumno?  
+2. ¿Cuales son las notas promedios de los 2 alumnos? 
 3. ¿Cuanto es la cantidad de asignaturas reprobadas en los 2 alumnos?
-4. ¿Cual es el alumno con mayor 
+4. Top de notas mas altas con su respectivo alumno.
 
-Contar cantidad de clases reprobadas en dos distintos dataframes
- 
-## Sidenote for later: Cambiar a /data los csv y json
 
 ## Recursos Utilizados
 1. https://pandas.pydata.org/docs/user_guide/basics.html
